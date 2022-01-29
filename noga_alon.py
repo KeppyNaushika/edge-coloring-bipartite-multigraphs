@@ -1,7 +1,5 @@
 import math
 
-
-
 def divide_graph(edges: list) -> list:
   '''
   Make a 2k-regular bipartite graph into two k-regular bipartite graphs
